@@ -1,0 +1,3 @@
+PS C:\Users\eslam\Desktop\rgb> & C:/Users/eslam/anaconda3/python.exe c:/Users/eslam/Desktop/rgb/nootbook/chatbot.py
+<Record P=<Node element_id='4:5383b8a4-b22e-4ad7-ac07-4f600ffe8155:0' labels=frozenset({'Compound'}) properties={'name': 'methane', 'formula': 'CH4'}>>
+PS C:\Users\eslam\Desktop\rgb> 
