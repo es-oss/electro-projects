@@ -1,0 +1,10 @@
+[project]
+name = "langgraph-demoo"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.2.10",
+    "langchain-google-genai>=4.2.1",
+    "langgraph>=1.0.9",
+    "python-dotenv>=1.2.1",
+]
